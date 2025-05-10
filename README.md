@@ -1,4 +1,4 @@
-# Operation Escape
+# 🏥 Operation Escape 
 
 A terminal-based C++ puzzle game set in a hospital overtaken by a killer doctor. Solve critical-thinking challenges in different rooms to rescue hostages before it’s too late.
 
@@ -14,6 +14,8 @@ A terminal-based C++ puzzle game set in a hospital overtaken by a killer doctor.
 - `hospital_game` – Mac executable (rename or rebuild if needed)
 
 ## 🛠️ To Compile & Run
-bash
+
+```bash
 g++ main.cpp Game.cpp -o hospital_game
 ./hospital_game
+```
